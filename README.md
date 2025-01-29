@@ -12,12 +12,12 @@ Some Key Metrics include:
 After collection of dataset, proper data cleaning process was carried out to ensure validation and authenticity of the data.
 below are some of my Data cleaning checklist:
 
-Understanding the data
-handling missing Data
-Removing duplicates
-Standardize data formats
-Normalize and scale data
-Address Inconsistencies
-correct data types.
-handle bland rows
-Validate dataset after cleaning.
+- Understanding the data
+- handling missing Data
+- Removing duplicates
+- Standardize data formats
+- Normalize and scale data
+- Address Inconsistencies
+- correct data types.
+- handle bland rows
+- Validate dataset after cleaning.
